@@ -9,7 +9,7 @@ public class ScriptDiario : MonoBehaviour
     [SerializeField] private TMP_Text dataPagina;
     [SerializeField] private TMP_Text textoPagina;
     [SerializeField] private TMP_Text contadorPagina;
-    [SerializeField] private Button botaoLacuna;
+    [SerializeField] private Button botaoNomeLivro;
     [SerializeField] private Button[] botoesLivros = new Button[5];
     [SerializeField] private Button botaoAnterior;
     [SerializeField] private Button botaoProximo;
@@ -28,11 +28,11 @@ public class ScriptDiario : MonoBehaviour
 
     private void Start()
     {
-        textoLacuna = botaoLacuna.GetComponentInChildren<TMP_Text>();
+        textoLacuna = botaoNomeLivro.GetComponentInChildren<TMP_Text>();
 
-        imagemLacuna = botaoLacuna.GetComponent<Image>();
+        imagemLacuna = botaoNomeLivro.GetComponent<Image>();
 
-        botaoLacuna.onClick.AddListener(SelecionarLacuna);
+        botaoNomeLivro.onClick.AddListener(SelecionarLacuna);
 
         botaoAnterior.onClick.AddListener(PaginaAnterior);
         botaoProximo.onClick.AddListener(ProximaPagina);
@@ -160,7 +160,7 @@ public class ScriptDiario : MonoBehaviour
         botaoAnterior.interactable = !concluido;
         botaoProximo.interactable = !concluido;
 
-        botaoLacuna.interactable = !concluido;
+        botaoNomeLivro.interactable = !concluido;
 
         botaoVerificar.gameObject.SetActive(!concluido);
 
