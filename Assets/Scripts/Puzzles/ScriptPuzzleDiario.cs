@@ -53,6 +53,17 @@ public class ScriptDiario : MonoBehaviour
                 () => EscolherLivro(indice)
             );
         }
+        //Area Para testar o jogo, fazendo com que ela resete, ao publicar REMOVER A AREA ENTRE OS COMENTARIOS!!!!!!
+        //REMOVER
+        PlayerPrefs.DeleteKey("PuzzleLivrosConcluido");
+
+        for (int i = 0; i < 5; i++)
+        {
+            PlayerPrefs.DeleteKey("DiarioLivro_" + i);
+        }
+
+        PlayerPrefs.Save();
+        //REMOVER
 
         CarregarRespostas();
 
