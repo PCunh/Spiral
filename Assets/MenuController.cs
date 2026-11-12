@@ -42,7 +42,11 @@ public class MenuController : MonoBehaviour
 
     public void OpenSettings()
     {
-        Debug.Log("BOTÃO CONFIGURAÇÕES CLICADO!");
+        if (settingsPanel != null)
+            settingsPanel.SetActive(true);
+
+        if (creditsPanel != null)
+            creditsPanel.SetActive(false);
     }
 
     public void OpenCredits()
