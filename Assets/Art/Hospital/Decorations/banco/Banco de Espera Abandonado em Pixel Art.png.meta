@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 76ba29dcbbcda3f4a9b47886c22f5d29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9180150149194230173
+    second: Banco de Espera Abandonado em Pixel Art_0
+  - first:
+      213: -8236047872670623215
+    second: Banco de Espera Abandonado em Pixel Art_1
+  - first:
+      213: -1573140841977050810
+    second: Banco de Espera Abandonado em Pixel Art_2
+  - first:
+      213: 8470243603895164715
+    second: Banco de Espera Abandonado em Pixel Art_3
+  - first:
+      213: -4333402291683033143
+    second: Banco de Espera Abandonado em Pixel Art_4
+  - first:
+      213: 8129317439006232207
+    second: Banco de Espera Abandonado em Pixel Art_5
+  - first:
+      213: 6279120403003502754
+    second: Banco de Espera Abandonado em Pixel Art_6
+  - first:
+      213: -6305635097210590057
+    second: Banco de Espera Abandonado em Pixel Art_7
+  - first:
+      213: 8750878980099610934
+    second: Banco de Espera Abandonado em Pixel Art_8
+  - first:
+      213: 5163576714965789685
+    second: Banco de Espera Abandonado em Pixel Art_9
+  - first:
+      213: 366100785667846393
+    second: Banco de Espera Abandonado em Pixel Art_10
+  - first:
+      213: -5466606264894178448
+    second: Banco de Espera Abandonado em Pixel Art_11
+  - first:
+      213: 8060924202059882907
+    second: Banco de Espera Abandonado em Pixel Art_12
+  - first:
+      213: 3662179767863745137
+    second: Banco de Espera Abandonado em Pixel Art_13
+  - first:
+      213: 8589757909346645943
+    second: Banco de Espera Abandonado em Pixel Art_14
+  - first:
+      213: -1049770819533934468
+    second: Banco de Espera Abandonado em Pixel Art_15
+  - first:
+      213: 7612870451719725318
+    second: Banco de Espera Abandonado em Pixel Art_16
+  - first:
+      213: 3903195360663866445
+    second: Banco de Espera Abandonado em Pixel Art_17
+  - first:
+      213: -6721848823681938020
+    second: Banco de Espera Abandonado em Pixel Art_18
+  - first:
+      213: -7785365396345568503
+    second: Banco de Espera Abandonado em Pixel Art_19
+  - first:
+      213: 7940297941981085066
+    second: Banco de Espera Abandonado em Pixel Art_20
+  - first:
+      213: 9221424236307712054
+    second: Banco de Espera Abandonado em Pixel Art_21
+  - first:
+      213: -2996688192736521710
+    second: Banco de Espera Abandonado em Pixel Art_22
+  - first:
+      213: 5192499614571784979
+    second: Banco de Espera Abandonado em Pixel Art_23
+  - first:
+      213: -4989444896992198182
+    second: Banco de Espera Abandonado em Pixel Art_24
+  - first:
+      213: -2050568480060942541
+    second: Banco de Espera Abandonado em Pixel Art_25
+  - first:
+      213: -955027708848584403
+    second: Banco de Espera Abandonado em Pixel Art_26
+  - first:
+      213: -6357828076958303877
+    second: Banco de Espera Abandonado em Pixel Art_27
+  - first:
+      213: 9050188928517999726
+    second: Banco de Espera Abandonado em Pixel Art_28
+  - first:
+      213: 9059420141651012055
+    second: Banco de Espera Abandonado em Pixel Art_29
+  - first:
+      213: 3164215994158419759
+    second: Banco de Espera Abandonado em Pixel Art_30
+  - first:
+      213: 3519032039898575903
+    second: Banco de Espera Abandonado em Pixel Art_31
+  - first:
+      213: 7292671279776139779
+    second: Banco de Espera Abandonado em Pixel Art_32
+  - first:
+      213: -8683036409439563501
+    second: Banco de Espera Abandonado em Pixel Art_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 900
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 31
+        width: 1687
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366578ce31e899080800000000000000
+      internalID: -9180150149194230173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 862
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a1b54a81ea3bd80800000000000000
+      internalID: -8236047872670623215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 857
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6498c443db41b2ae0800000000000000
+      internalID: -1573140841977050810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_3
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 838
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f12333ea95c8570800000000000000
+      internalID: 8470243603895164715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_4
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 855
+        width: 122
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf7e573399acd3c0800000000000000
+      internalID: -4333402291683033143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 846
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eca5ac32321d070800000000000000
+      internalID: 8129317439006232207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_6
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 862
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a07ee20dbae32750800000000000000
+      internalID: 6279120403003502754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_7
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 856
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ce68ba942ed78a0800000000000000
+      internalID: -6305635097210590057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_8
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 854
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6391549711e517970800000000000000
+      internalID: 8750878980099610934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 840
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fba30a1aa5b8a740800000000000000
+      internalID: 5163576714965789685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_10
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 830
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f039b199b6a41500800000000000000
+      internalID: 366100785667846393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 534
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bbe0eb096b224b0800000000000000
+      internalID: -5466606264894178448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_12
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 483
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91e0296ad72edf60800000000000000
+      internalID: 8060924202059882907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_13
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 453
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a1427881da2d230800000000000000
+      internalID: 3662179767863745137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 404
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7753dde43f43770800000000000000
+      internalID: 8589757909346645943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 114
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70fb1660077e61f0800000000000000
+      internalID: -1049770819533934468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60162d3575956a960800000000000000
+      internalID: 7612870451719725318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_17
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 112
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c8251208fea2630800000000000000
+      internalID: 3903195360663866445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_18
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 106
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d8f86db1237b2a0800000000000000
+      internalID: -6721848823681938020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_19
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 114
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9034430bb63d4f390800000000000000
+      internalID: -7785365396345568503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_20
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 120
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d3c82a8ea913e60800000000000000
+      internalID: 7940297941981085066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_21
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 104
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6388c485c7419ff70800000000000000
+      internalID: 9221424236307712054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_22
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212155147ff9966d0800000000000000
+      internalID: -2996688192736521710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_23
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 102
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b67ee63e67f0840800000000000000
+      internalID: 5192499614571784979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_24
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 102
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad105682d4ee1cab0800000000000000
+      internalID: -4989444896992198182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_25
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 109
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337da5ee4daea83e0800000000000000
+      internalID: -2050568480060942541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_26
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 100
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29cc67db5f0fb2f0800000000000000
+      internalID: -955027708848584403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_27
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 96
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7935e99c0574c7a0800000000000000
+      internalID: -6357828076958303877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_28
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 96
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c0d7a61eab89d70800000000000000
+      internalID: 9050188928517999726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_29
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 98
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9a026be9689bd70800000000000000
+      internalID: 9059420141651012055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_30
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 100
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f0c649ead89eb20800000000000000
+      internalID: 3164215994158419759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_31
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f147f53eefc16d030800000000000000
+      internalID: 3519032039898575903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_32
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 82
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a00c604e5c43560800000000000000
+      internalID: 7292671279776139779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco de Espera Abandonado em Pixel Art_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 33
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311529be368af7780800000000000000
+      internalID: -8683036409439563501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Banco de Espera Abandonado em Pixel Art_0: -9180150149194230173
+      Banco de Espera Abandonado em Pixel Art_1: -8236047872670623215
+      Banco de Espera Abandonado em Pixel Art_10: 366100785667846393
+      Banco de Espera Abandonado em Pixel Art_11: -5466606264894178448
+      Banco de Espera Abandonado em Pixel Art_12: 8060924202059882907
+      Banco de Espera Abandonado em Pixel Art_13: 3662179767863745137
+      Banco de Espera Abandonado em Pixel Art_14: 8589757909346645943
+      Banco de Espera Abandonado em Pixel Art_15: -1049770819533934468
+      Banco de Espera Abandonado em Pixel Art_16: 7612870451719725318
+      Banco de Espera Abandonado em Pixel Art_17: 3903195360663866445
+      Banco de Espera Abandonado em Pixel Art_18: -6721848823681938020
+      Banco de Espera Abandonado em Pixel Art_19: -7785365396345568503
+      Banco de Espera Abandonado em Pixel Art_2: -1573140841977050810
+      Banco de Espera Abandonado em Pixel Art_20: 7940297941981085066
+      Banco de Espera Abandonado em Pixel Art_21: 9221424236307712054
+      Banco de Espera Abandonado em Pixel Art_22: -2996688192736521710
+      Banco de Espera Abandonado em Pixel Art_23: 5192499614571784979
+      Banco de Espera Abandonado em Pixel Art_24: -4989444896992198182
+      Banco de Espera Abandonado em Pixel Art_25: -2050568480060942541
+      Banco de Espera Abandonado em Pixel Art_26: -955027708848584403
+      Banco de Espera Abandonado em Pixel Art_27: -6357828076958303877
+      Banco de Espera Abandonado em Pixel Art_28: 9050188928517999726
+      Banco de Espera Abandonado em Pixel Art_29: 9059420141651012055
+      Banco de Espera Abandonado em Pixel Art_3: 8470243603895164715
+      Banco de Espera Abandonado em Pixel Art_30: 3164215994158419759
+      Banco de Espera Abandonado em Pixel Art_31: 3519032039898575903
+      Banco de Espera Abandonado em Pixel Art_32: 7292671279776139779
+      Banco de Espera Abandonado em Pixel Art_33: -8683036409439563501
+      Banco de Espera Abandonado em Pixel Art_4: -4333402291683033143
+      Banco de Espera Abandonado em Pixel Art_5: 8129317439006232207
+      Banco de Espera Abandonado em Pixel Art_6: 6279120403003502754
+      Banco de Espera Abandonado em Pixel Art_7: -6305635097210590057
+      Banco de Espera Abandonado em Pixel Art_8: 8750878980099610934
+      Banco de Espera Abandonado em Pixel Art_9: 5163576714965789685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

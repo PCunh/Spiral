@@ -1,3 +1,4 @@
+
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -40,6 +41,26 @@ public class MenuController : MonoBehaviour
             StartCoroutine(LoadGame());
     }
 
+    public void NovoJogo()
+    {
+        if (!isTransitioning)
+            StartCoroutine(IniciarNovoJogo());
+    }
+
+    private IEnumerator IniciarNovoJogo()
+    {
+        isTransitioning = true;
+
+        // Faz a transicao antes de iniciar o jogo.
+        yield return Fade(0f, 1f);
+
+        // Apaga o progresso de todos os puzzles.
+        PlayerPrefs.DeleteAll();
+        PlayerPrefs.Save();
+
+        SceneManager.LoadScene(gameSceneName);
+    }
+
     public void OpenSettings()
     {
         if (settingsPanel != null)
@@ -71,9 +92,9 @@ public class MenuController : MonoBehaviour
     {
         Application.Quit();
 
-        #if UNITY_EDITOR
-        Debug.Log("Sair do jogo funciona na versão compilada.");
-        #endif
+#if UNITY_EDITOR
+        Debug.Log("Sair do jogo funciona na versao compilada.");
+#endif
     }
 
     private IEnumerator LoadGame()
@@ -106,6 +127,7 @@ public class MenuController : MonoBehaviour
             t = Mathf.SmoothStep(0f, 1f, t);
 
             SetFadeAlpha(Mathf.Lerp(start, end, t));
+
             yield return null;
         }
 
@@ -114,6 +136,9 @@ public class MenuController : MonoBehaviour
 
     private void SetFadeAlpha(float alpha)
     {
+        if (fadeOverlay == null)
+            return;
+
         Color color = fadeOverlay.color;
         color.a = alpha;
         fadeOverlay.color = color;

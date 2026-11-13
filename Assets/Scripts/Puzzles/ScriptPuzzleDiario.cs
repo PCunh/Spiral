@@ -15,7 +15,9 @@ public class ScriptDiario : MonoBehaviour
     [SerializeField] private Button botaoProximo;
     [SerializeField] private Button botaoVerificar;
     [SerializeField] private Button botaoVoltar;
+    [SerializeField] private Button botaoLivro;
     [SerializeField] private TMP_Text mensagem;
+    [SerializeField] private string pontoRetorno = "PontoEntrada_Rotina";
 
     public int[] respostas = { -1, -1, -1, -1, -1 };
 
@@ -38,6 +40,7 @@ public class ScriptDiario : MonoBehaviour
         botaoProximo.onClick.AddListener(ProximaPagina);
         botaoVerificar.onClick.AddListener(VerificarRespostas);
         botaoVoltar.onClick.AddListener(Voltar);
+        botaoLivro.onClick.AddListener(Livro);
 
         for (int i = 0; i < botoesLivros.Length; i++)
         {
@@ -53,17 +56,6 @@ public class ScriptDiario : MonoBehaviour
                 () => EscolherLivro(indice)
             );
         }
-        //Area Para testar o jogo, fazendo com que ela resete, ao publicar REMOVER A AREA ENTRE OS COMENTARIOS!!!!!!
-        //REMOVER
-        PlayerPrefs.DeleteKey("PuzzleLivrosConcluido");
-
-        for (int i = 0; i < 5; i++)
-        {
-            PlayerPrefs.DeleteKey("DiarioLivro_" + i);
-        }
-
-        PlayerPrefs.Save();
-        //REMOVER
 
         CarregarRespostas();
 
@@ -224,7 +216,17 @@ public class ScriptDiario : MonoBehaviour
 
     private void Voltar()
     {
+        PlayerPrefs.SetString(
+            "NomePontoEntrada", pontoRetorno
+        );
+
+        PlayerPrefs.SetInt("VeioDeOutraCena", 1);
+        PlayerPrefs.Save();
+
         SceneManager.LoadScene("Game");
     }
-
+    private void Livro()
+    {
+        SceneManager.LoadScene("PuzzleLivros");
+    }
 }

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 5b5442d4966a59947bb811a3b7994e1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7076366638728457587
+    second: Maca Hospitalar Abandonada em Pixel Art_0
+  - first:
+      213: -7034319381786926948
+    second: Maca Hospitalar Abandonada em Pixel Art_1
+  - first:
+      213: -7320386535033160175
+    second: Maca Hospitalar Abandonada em Pixel Art_2
+  - first:
+      213: 4672460379864649944
+    second: Maca Hospitalar Abandonada em Pixel Art_3
+  - first:
+      213: 6229972784886941114
+    second: Maca Hospitalar Abandonada em Pixel Art_4
+  - first:
+      213: -6235472758095294312
+    second: Maca Hospitalar Abandonada em Pixel Art_5
+  - first:
+      213: -5261159356653705985
+    second: Maca Hospitalar Abandonada em Pixel Art_6
+  - first:
+      213: -6771909936207877929
+    second: Maca Hospitalar Abandonada em Pixel Art_7
+  - first:
+      213: 643622887972798445
+    second: Maca Hospitalar Abandonada em Pixel Art_8
+  - first:
+      213: -1928884328114610445
+    second: Maca Hospitalar Abandonada em Pixel Art_9
+  - first:
+      213: -7978116214098599918
+    second: Maca Hospitalar Abandonada em Pixel Art_10
+  - first:
+      213: 2526063392738380353
+    second: Maca Hospitalar Abandonada em Pixel Art_11
+  - first:
+      213: 3202537999924822023
+    second: Maca Hospitalar Abandonada em Pixel Art_12
+  - first:
+      213: 343693061142999407
+    second: Maca Hospitalar Abandonada em Pixel Art_13
+  - first:
+      213: -7539650646887137063
+    second: Maca Hospitalar Abandonada em Pixel Art_14
+  - first:
+      213: 1865908135196373044
+    second: Maca Hospitalar Abandonada em Pixel Art_15
+  - first:
+      213: 2956018903956434203
+    second: Maca Hospitalar Abandonada em Pixel Art_16
+  - first:
+      213: 8698289756303601712
+    second: Maca Hospitalar Abandonada em Pixel Art_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 900
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1729
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37da5d937fd443260800000000000000
+      internalID: 7076366638728457587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 846
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90e1fbaac3116e90800000000000000
+      internalID: -7034319381786926948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 301
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ebbc04b33c86a90800000000000000
+      internalID: -7320386535033160175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 295
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d05be0b5f9e7d040800000000000000
+      internalID: 4672460379864649944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 279
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab589837d3f457650800000000000000
+      internalID: 6229972784886941114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 178
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890da1f30962779a0800000000000000
+      internalID: -6235472758095294312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_6
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 69
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4eeef907b9cf6b0800000000000000
+      internalID: -5261159356653705985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_7
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d82469cac75502a0800000000000000
+      internalID: -6771909936207877929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_8
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 41
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deffde64b9b9ee800800000000000000
+      internalID: 643622887972798445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_9
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 37
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe19e95ce93b35e0800000000000000
+      internalID: -1928884328114610445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_10
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 33
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2106ed9b299084190800000000000000
+      internalID: -7978116214098599918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_11
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 14
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a0a44a5416e0320800000000000000
+      internalID: 2526063392738380353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 15
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7008539d753b17c20800000000000000
+      internalID: 3202537999924822023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_13
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 17
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61f135a40b05c400800000000000000
+      internalID: 343693061142999407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_14
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d08fb5fea7cd5790800000000000000
+      internalID: -7539650646887137063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_15
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 11
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43034ed109905e910800000000000000
+      internalID: 1865908135196373044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_16
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 15
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1da9af0883e50920800000000000000
+      internalID: 2956018903956434203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maca Hospitalar Abandonada em Pixel Art_17
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03035e5a27886b870800000000000000
+      internalID: 8698289756303601712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maca Hospitalar Abandonada em Pixel Art_0: 7076366638728457587
+      Maca Hospitalar Abandonada em Pixel Art_1: -7034319381786926948
+      Maca Hospitalar Abandonada em Pixel Art_10: -7978116214098599918
+      Maca Hospitalar Abandonada em Pixel Art_11: 2526063392738380353
+      Maca Hospitalar Abandonada em Pixel Art_12: 3202537999924822023
+      Maca Hospitalar Abandonada em Pixel Art_13: 343693061142999407
+      Maca Hospitalar Abandonada em Pixel Art_14: -7539650646887137063
+      Maca Hospitalar Abandonada em Pixel Art_15: 1865908135196373044
+      Maca Hospitalar Abandonada em Pixel Art_16: 2956018903956434203
+      Maca Hospitalar Abandonada em Pixel Art_17: 8698289756303601712
+      Maca Hospitalar Abandonada em Pixel Art_2: -7320386535033160175
+      Maca Hospitalar Abandonada em Pixel Art_3: 4672460379864649944
+      Maca Hospitalar Abandonada em Pixel Art_4: 6229972784886941114
+      Maca Hospitalar Abandonada em Pixel Art_5: -6235472758095294312
+      Maca Hospitalar Abandonada em Pixel Art_6: -5261159356653705985
+      Maca Hospitalar Abandonada em Pixel Art_7: -6771909936207877929
+      Maca Hospitalar Abandonada em Pixel Art_8: 643622887972798445
+      Maca Hospitalar Abandonada em Pixel Art_9: -1928884328114610445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
