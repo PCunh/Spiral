@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fe5cc400653cec14ea15016c1fa24df5
+guid: d5836f3dd1270644888d33d7fe9bb6bb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 348060188465540940
-    second: capaTeste_0
+      213: -5064066724028260599
+    second: Imagem do ChatGPT 11 de nov. de 2026, 12_24_10-5_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: capaTeste_0
+      name: Imagem do ChatGPT 11 de nov. de 2026, 12_24_10-5_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 365
-        height: 547
+        width: 1024
+        height: 1536
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c4fa1f5b5ee84d400800000000000000
-      internalID: 348060188465540940
+      spriteID: 90f5b632522d8b9b0800000000000000
+      internalID: -5064066724028260599
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      capaTeste_0: 348060188465540940
+      Imagem do ChatGPT 11 de nov. de 2026, 12_24_10-5_0: -5064066724028260599
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
