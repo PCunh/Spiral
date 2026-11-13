@@ -1,0 +1,13 @@
+SPRITES DE PAREDES — HOSPITAL
+
+Conteúdo:
+- atlas_paredes_hospital_referencia.png: folha de referência com variações de paredes verticais, cantos, junções e portas.
+- visao_geral_paredes_e_portas.png: visão geral do conjunto e do estilo visual.
+
+IMPORTANTE:
+Estas imagens são folhas de referência geradas, não sprites individuais já recortados em células exatas de 90x90 px. Não configure Sprite Mode = Multiple com Grid 90x90 esperando que todos os recortes fiquem corretos: os elementos têm dimensões e espaçamentos visuais diferentes.
+
+Para usar no projeto:
+1. Extraia esta pasta dentro de Assets/Art/Hospital/Tilesets/ (ou copie os PNGs para lá).
+2. Mantenha os arquivos originais do projeto; estas imagens não substituem os tiles horizontais existentes.
+3. Antes de pintar na Tile Palette, precisamos separar e ajustar cada peça individualmente para 90x90 px e remover o fundo escuro da folha.
