@@ -3424,8 +3424,8 @@ MonoBehaviour:
   botaoVerificar: {fileID: 986101608}
   botaoLimpar: {fileID: 798876769}
   botaoFechar: {fileID: 343220762}
-  cenaRetorno: Acidente
-  pontoRetorno: PontoEntrada_Acidente
+  cenaRetorno: Game
+  pontoRetorno: PontoSaida_Acidente
 --- !u!4 &1497248426
 Transform:
   m_ObjectHideFlags: 0

@@ -1923,7 +1923,7 @@ MonoBehaviour:
   tempoLetra: 0.5
   intervalo: 0.15
   cenaRetorno: Game
-  pontoRetorno: PontoEntrada_Canto
+  pontoRetorno: PontoSaida_Gravacao
 --- !u!4 &747339843
 Transform:
   m_ObjectHideFlags: 0

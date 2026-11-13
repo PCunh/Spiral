@@ -628,7 +628,7 @@ MonoBehaviour:
   botaoRotina: {fileID: 613694633}
   cenaRetorno: Game
   botaoCena: PuzzleRotina1
-  pontoRetorno: PontoEntrada_Rotina
+  pontoRetorno: PontoSaida_Rotina
 --- !u!4 &760052042
 Transform:
   m_ObjectHideFlags: 0

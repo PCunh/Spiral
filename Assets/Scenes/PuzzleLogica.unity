@@ -2634,9 +2634,10 @@ MonoBehaviour:
   - {fileID: 45627918}
   botaoVerificar: {fileID: 180583343}
   botaoVoltar: {fileID: 2065668549}
-  botaoJornal: {fileID: 0}
+  botaoJornal: {fileID: 824904757}
   mensagem: {fileID: 752800177}
   cenaRetorno: Game
+  pontoRetorno: PontoSaida_Ambulancia
 --- !u!4 &2109823732
 Transform:
   m_ObjectHideFlags: 0

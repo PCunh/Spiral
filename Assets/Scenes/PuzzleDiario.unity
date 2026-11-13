@@ -4311,6 +4311,7 @@ MonoBehaviour:
   botaoVoltar: {fileID: 777408216}
   botaoLivro: {fileID: 746926896}
   mensagem: {fileID: 1168609958}
+  pontoRetorno: PontoEntrada_Game
   respostas: ffffffffffffffffffffffffffffffffffffffff
   paginaAtual: 0
   lacunaSelecionada: 0

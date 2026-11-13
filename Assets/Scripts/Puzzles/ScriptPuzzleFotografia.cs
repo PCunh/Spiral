@@ -12,7 +12,10 @@ public class ScriptPuzzleFotografia : MonoBehaviour
 
     [SerializeField] private Button botaoEmbaralhar;
     [SerializeField] private Button botaoDica;
+    [SerializeField] private Button botaoVoltar;
     [SerializeField] private string cenaRetorno = "Game";
+    [SerializeField] private string pontoRetorno = "PontoEntrada_Rotina";
+
 
     [SerializeField, Min(20)]
 
@@ -43,6 +46,9 @@ public class ScriptPuzzleFotografia : MonoBehaviour
 
         if (botaoEmbaralhar != null)
             botaoEmbaralhar.onClick.AddListener(Reiniciar);
+
+        if (botaoVoltar != null)
+            botaoVoltar.onClick.AddListener(Voltar);
 
         if (botaoDica != null) {
             botaoDica.onClick.AddListener(AcaoBotaoDica);
@@ -294,6 +300,13 @@ public class ScriptPuzzleFotografia : MonoBehaviour
 
     public void Voltar()
     {
+        PlayerPrefs.SetString(
+            "NomePontoEntrada", pontoRetorno
+        );
+
+        PlayerPrefs.SetInt("VeioDeOutraCena", 1);
+        PlayerPrefs.Save();
+
         SceneManager.LoadScene(cenaRetorno);
     }
 }

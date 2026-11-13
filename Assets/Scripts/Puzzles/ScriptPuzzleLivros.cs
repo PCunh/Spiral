@@ -14,6 +14,8 @@ public class ScriptPuzzleLivros : MonoBehaviour
     [SerializeField] private Button botaoProximo;
     [SerializeField] private Button botaoDiario;
     [SerializeField] private Button botaoVoltar;
+    [SerializeField] private string pontoRetorno = "PontoEntrada_Rotina";
+
 
     private int livroAtual = 0;
 
@@ -76,6 +78,13 @@ public class ScriptPuzzleLivros : MonoBehaviour
     }
     private void Voltar()
     {
+        PlayerPrefs.SetString(
+            "NomePontoEntrada", pontoRetorno
+        );
+
+        PlayerPrefs.SetInt("VeioDeOutraCena", 1);
+        PlayerPrefs.Save();
+
         SceneManager.LoadScene("Game");
     }
 }

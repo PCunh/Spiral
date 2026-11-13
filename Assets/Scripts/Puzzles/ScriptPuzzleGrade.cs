@@ -17,6 +17,8 @@ public class ScriptGradeLogica : MonoBehaviour
     [SerializeField] private TMP_Text mensagem;
 
     [SerializeField] private string cenaRetorno = "Game";
+    [SerializeField] private string pontoRetorno = "PontoEntrada_Rotina";
+
 
     private readonly string[] pessoas = {"Antonio", "Beatriz", "Carlos"};
 
@@ -221,6 +223,14 @@ public class ScriptGradeLogica : MonoBehaviour
     }
 
     private void Voltar(){
+        PlayerPrefs.SetString(
+            "NomePontoEntrada", pontoRetorno
+        );
+
+        PlayerPrefs.SetInt("VeioDeOutraCena", 1);
+        PlayerPrefs.Save();
+
+
         SceneManager.LoadScene(cenaRetorno);
     }
     private void Jornal()
