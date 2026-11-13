@@ -9,11 +9,32 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
+    path: Assets/Scenes/Hospital_Sala01.unity
+    guid: 379cdf18d5790c74fa55189d966c1834
+  - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: bc4279cf50d6aa1468aa07e95db52301
   - enabled: 1
     path: Assets/Scenes/PuzzleFotografia.unity
     guid: ac874e327768e1e44b8e85c5c43c3179
+  - enabled: 1
+    path: Assets/Scenes/Escritorio_Hospitalar.unity
+    guid: 2d3df0e5cac88da4d8f8f7d5c0061c41
+  - enabled: 1
+    path: Assets/Scenes/Banheiro.unity
+    guid: 60991a7cc1c0cdf4eb2145430f3153c0
+  - enabled: 1
+    path: Assets/Scenes/Cirurgia.unity
+    guid: 1e9ebee95990b2a40b17be04b339b9a1
+  - enabled: 1
+    path: Assets/Scenes/Rotina.unity
+    guid: 8672cd97491ba584d8491d1ccc779202
+  - enabled: 1
+    path: Assets/Scenes/Acidente.unity
+    guid: 87193505bca148f47934027d92136d48
+  - enabled: 1
+    path: Assets/Scenes/Fotografia.unity
+    guid: af97b36b1e037b3448087b712baa9ecd
   - enabled: 1
     path: Assets/Scenes/PuzzleDiario.unity
     guid: b72b800d19fdcea439f6838297b45d66
