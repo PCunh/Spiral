@@ -15,6 +15,7 @@ public class ScriptDiario : MonoBehaviour
     [SerializeField] private Button botaoProximo;
     [SerializeField] private Button botaoVerificar;
     [SerializeField] private Button botaoVoltar;
+    [SerializeField] private Button botaoLivro;
     [SerializeField] private TMP_Text mensagem;
 
     public int[] respostas = { -1, -1, -1, -1, -1 };
@@ -38,6 +39,7 @@ public class ScriptDiario : MonoBehaviour
         botaoProximo.onClick.AddListener(ProximaPagina);
         botaoVerificar.onClick.AddListener(VerificarRespostas);
         botaoVoltar.onClick.AddListener(Voltar);
+        botaoLivro.onClick.AddListener(Livro);
 
         for (int i = 0; i < botoesLivros.Length; i++)
         {
@@ -226,5 +228,8 @@ public class ScriptDiario : MonoBehaviour
     {
         SceneManager.LoadScene("Game");
     }
-
+    private void Livro()
+    {
+        SceneManager.LoadScene("PuzzleLivros");
+    }
 }

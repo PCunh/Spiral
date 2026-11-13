@@ -43,7 +43,7 @@ public static class DadosPuzzleAcidente
 
     public static bool FoiColetado(int id)
     {
-        return PlayerPrefs.GetInt(ChaveColeta(id), 0) == 1;
+        return id >= 0 && id < Total;
     }
 
     public static void RegistrarColeta(int id)
@@ -54,12 +54,6 @@ public static class DadosPuzzleAcidente
 
     public static bool TodosColetados()
     {
-        for (int i = 0; i < Total; i++)
-        {
-            if (!FoiColetado(i))
-                return false;
-        }
-
         return true;
     }
 }

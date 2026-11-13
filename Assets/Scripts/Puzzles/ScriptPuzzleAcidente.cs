@@ -23,14 +23,13 @@ public class ScriptPuzzleAcidente : MonoBehaviour
     [SerializeField] private Button botaoFechar;
 
     [Header("Cena de retorno")]
-    [SerializeField] private string cenaRetorno = "Acidente";
+    [SerializeField] private string cenaRetorno = "Game";
     [SerializeField]
     private string pontoRetorno =
         "PontoEntrada_Acidente";
 
     private int[] ordem = { -1, -1, -1, -1, -1 };
 
-    // A sequencia correta, usando os IDs dos itens.
     private readonly int[] solucao = { 0, 1, 2, 3, 4 };
 
     private int slotSelecionado = -1;
