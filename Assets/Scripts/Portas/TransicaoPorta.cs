@@ -5,10 +5,7 @@ using UnityEngine.InputSystem;
 
 public class TransicaoPorta : MonoBehaviour
 {
-    [Header("Configuração da transição")]
     public string nomeCenaDestino;
-
-    [Header("Ponto de chegada na outra cena")]
     public string nomePontoEntrada;
 
     private bool jogadorPerto = false;
@@ -19,21 +16,7 @@ public class TransicaoPorta : MonoBehaviour
             Keyboard.current != null &&
             Keyboard.current.eKey.wasPressedThisFrame)
         {
-            if (string.IsNullOrEmpty(nomePontoEntrada))
-            {
-                Debug.LogError(
-                    "Ponto de entrada vazio na porta: " + gameObject.name +
-                    ". Valor recebido: [" + nomePontoEntrada + "]"
-                );
-                return;
-            }
-            else
-            {
-                Debug.Log("Porta: " + gameObject.name +
-                        " | Cena destino: " + nomeCenaDestino +
-                        " | Ponto de entrada: " + nomePontoEntrada);
-            }
-
+            
             PlayerPrefs.SetString("NomePontoEntrada", nomePontoEntrada);
             PlayerPrefs.SetInt("VeioDeOutraCena", 1);
 
@@ -46,7 +29,6 @@ public class TransicaoPorta : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             jogadorPerto = true;
-            Debug.Log("Pressione E para entrar.");
         }
     }
 
@@ -55,7 +37,6 @@ public class TransicaoPorta : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             jogadorPerto = false;
-            Debug.Log("Você saiu da área da porta.");
         }
     }
 }

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a59d1b0ff6667b245b1684e4ae5f218a
+guid: cf4ba3c355222264c9e40e4e1b994ce2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7289604045690738266
-    second: WhatsApp Image 2026-10-13 at 12.06.57_0
+      213: -2476030505493121570
+    second: CurvaParede_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -48,10 +48,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 90
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WhatsApp Image 2026-10-13 at 12.06.57_0
+      name: CurvaParede_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 385
-        height: 1600
+        width: 90
+        height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6a96a5f0ebf16da90800000000000000
-      internalID: -7289604045690738266
+      spriteID: ed53d03bf5f53add0800000000000000
+      internalID: -2476030505493121570
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ea83c08cc7306bd489b075221fa23fb4
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      WhatsApp Image 2026-10-13 at 12.06.57_0: -7289604045690738266
+      CurvaParede_0: -2476030505493121570
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

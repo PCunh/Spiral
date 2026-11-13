@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: ece9ceb5a50562a4287c74f360b04ac2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 425489387432932163
+    second: Elias_0
+  - first:
+      213: -3138375274509228451
+    second: Elias_1
+  - first:
+      213: -3662028160376959383
+    second: Elias_2
+  - first:
+      213: -8685499377602508102
+    second: Elias_3
+  - first:
+      213: -4718211456855590338
+    second: Elias_4
+  - first:
+      213: -5432152933817874997
+    second: Elias_5
+  - first:
+      213: -6506651037995399251
+    second: Elias_6
+  - first:
+      213: -950119123402576952
+    second: Elias_7
+  - first:
+      213: 4161072708178026448
+    second: Elias_8
+  - first:
+      213: -6150722682615961703
+    second: Elias_9
+  - first:
+      213: -7965692404718362127
+    second: Elias_10
+  - first:
+      213: -4735146849264623669
+    second: Elias_11
+  - first:
+      213: -9030775543911552477
+    second: Elias_12
+  - first:
+      213: 9034394625040775950
+    second: Elias_13
+  - first:
+      213: 5432123736495331768
+    second: Elias_14
+  - first:
+      213: -2354550645501915240
+    second: Elias_15
+  - first:
+      213: 7930409312545710923
+    second: Elias_16
+  - first:
+      213: 4859922241964547319
+    second: Elias_17
+  - first:
+      213: -397071846127863739
+    second: Elias_18
+  - first:
+      213: -8241780655042347330
+    second: Elias_19
+  - first:
+      213: -2867151260354485276
+    second: Elias_20
+  - first:
+      213: -6372844866030388365
+    second: Elias_21
+  - first:
+      213: -7075969307595455107
+    second: Elias_22
+  - first:
+      213: 6847941535020624795
+    second: Elias_23
+  - first:
+      213: -4128423503346384232
+    second: Elias_24
+  - first:
+      213: 3127047795855495006
+    second: Elias_25
+  - first:
+      213: -3008094480751669732
+    second: Elias_26
+  - first:
+      213: -3588100803294188020
+    second: Elias_27
+  - first:
+      213: -8237434064530564636
+    second: Elias_28
+  - first:
+      213: -5526118152407899456
+    second: Elias_29
+  - first:
+      213: 2440903945415548
+    second: Elias_30
+  - first:
+      213: -6561238841489363731
+    second: Elias_31
+  - first:
+      213: -3169218393270772600
+    second: Elias_32
+  - first:
+      213: -5306012938756958244
+    second: Elias_33
+  - first:
+      213: -7057000278788343664
+    second: Elias_34
+  - first:
+      213: 3354037260975039338
+    second: Elias_35
+  - first:
+      213: -1611643805566658689
+    second: Elias_36
+  - first:
+      213: -4157464404930126711
+    second: Elias_37
+  - first:
+      213: 1489604544892108763
+    second: Elias_38
+  - first:
+      213: -2533375805516564135
+    second: Elias_39
+  - first:
+      213: -6596496098851953805
+    second: Elias_40
+  - first:
+      213: 2739320816244221498
+    second: Elias_41
+  - first:
+      213: -4854478349871540486
+    second: Elias_42
+  - first:
+      213: -4037239827475005025
+    second: Elias_43
+  - first:
+      213: -857791873813026898
+    second: Elias_44
+  - first:
+      213: -2428933044706735842
+    second: Elias_45
+  - first:
+      213: -3026567819626519130
+    second: Elias_46
+  - first:
+      213: -4417369239279092
+    second: Elias_47
+  - first:
+      213: 2406127853937349990
+    second: Elias_48
+  - first:
+      213: 4889872440011697587
+    second: Elias_49
+  - first:
+      213: 5115745511735323229
+    second: Elias_50
+  - first:
+      213: 3407280638681188311
+    second: Elias_51
+  - first:
+      213: 8813937583531639601
+    second: Elias_52
+  - first:
+      213: -7257893910600226198
+    second: Elias_53
+  - first:
+      213: -5335911921674644503
+    second: Elias_54
+  - first:
+      213: -6386065253202326445
+    second: Elias_55
+  - first:
+      213: -3400136742809159337
+    second: Elias_56
+  - first:
+      213: -7218783036751958069
+    second: Elias_57
+  - first:
+      213: 7006123837426100706
+    second: Elias_58
+  - first:
+      213: 8625143864488141558
+    second: Elias_59
+  - first:
+      213: 5939152364220113300
+    second: Elias_60
+  - first:
+      213: -1522096673342842246
+    second: Elias_61
+  - first:
+      213: -7503113516516918001
+    second: Elias_62
+  - first:
+      213: -7768406484398673777
+    second: Elias_63
+  - first:
+      213: 4081095418281362922
+    second: Elias_64
+  - first:
+      213: -2435766649930925683
+    second: Elias_65
+  - first:
+      213: -7477886830254372872
+    second: Elias_66
+  - first:
+      213: -5063199404944583229
+    second: Elias_67
+  - first:
+      213: -1980501408718926928
+    second: Elias_68
+  - first:
+      213: 5785656867873443102
+    second: Elias_69
+  - first:
+      213: 8992735697051240188
+    second: Elias_70
+  - first:
+      213: -3036718507414152570
+    second: Elias_71
+  - first:
+      213: 1539381620851626065
+    second: Elias_72
+  - first:
+      213: -8015541318944572160
+    second: Elias_73
+  - first:
+      213: -6952200572522760907
+    second: Elias_74
+  - first:
+      213: -2952190383481435025
+    second: Elias_75
+  - first:
+      213: 5652194578842468988
+    second: Elias_76
+  - first:
+      213: -6680886016318329049
+    second: Elias_77
+  - first:
+      213: -7136440229906623224
+    second: Elias_78
+  - first:
+      213: 7705348074096280681
+    second: Elias_79
+  - first:
+      213: -2998603483473680434
+    second: Elias_80
+  - first:
+      213: 7348406276233355111
+    second: Elias_81
+  - first:
+      213: -7511216560039427979
+    second: Elias_82
+  - first:
+      213: -5601472454030221829
+    second: Elias_83
+  - first:
+      213: -5638465273391967282
+    second: Elias_84
+  - first:
+      213: -5997897560484219887
+    second: Elias_85
+  - first:
+      213: -3297951234687750791
+    second: Elias_86
+  - first:
+      213: -571862577559558626
+    second: Elias_87
+  - first:
+      213: -8435970026616924491
+    second: Elias_88
+  - first:
+      213: -4864214500224312859
+    second: Elias_89
+  - first:
+      213: 3446090566316774039
+    second: Elias_90
+  - first:
+      213: 4591602012195494498
+    second: Elias_91
+  - first:
+      213: -563625863196288642
+    second: Elias_92
+  - first:
+      213: -7049045391265061791
+    second: Elias_93
+  - first:
+      213: -1186414930573315220
+    second: Elias_94
+  - first:
+      213: 4697427249071997759
+    second: Elias_95
+  - first:
+      213: 2488047717373576104
+    second: Elias_96
+  - first:
+      213: 2045222740636984998
+    second: Elias_97
+  - first:
+      213: 7798749770567511120
+    second: Elias_98
+  - first:
+      213: -595179855241054481
+    second: Elias_99
+  - first:
+      213: -3244387218817549318
+    second: Elias_100
+  - first:
+      213: 8697966531311888700
+    second: Elias_101
+  - first:
+      213: 9163858487086028625
+    second: Elias_102
+  - first:
+      213: 1089647608958355973
+    second: Elias_103
+  - first:
+      213: 4696516663658743054
+    second: Elias_104
+  - first:
+      213: 6593880113601913990
+    second: Elias_105
+  - first:
+      213: 8163861320943688453
+    second: Elias_106
+  - first:
+      213: -1094498017907402940
+    second: Elias_107
+  - first:
+      213: -8419185074145586467
+    second: Elias_108
+  - first:
+      213: 6449514520230245803
+    second: Elias_109
+  - first:
+      213: 4665728307455563352
+    second: Elias_110
+  - first:
+      213: 7801812723180253147
+    second: Elias_111
+  - first:
+      213: 1636576648442676888
+    second: Elias_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 225
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elias_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34373a1f754a7e500800000000000000
+      internalID: 425489387432932163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elias_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 724
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56220fc0504274d0800000000000000
+      internalID: -3138375274509228451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elias_2
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 724
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e01475accdd2dc0800000000000000
+      internalID: -3662028160376959383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elias_3
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 724
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba40257558e67780800000000000000
+      internalID: -8685499377602508102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elias_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ab1fa9dab858eb0800000000000000
+      internalID: -4718211456855590338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elias_5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 362
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5803effad1d94b0800000000000000
+      internalID: -5432152933817874997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elias_6
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 362
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da78bdaca5bb3b5a0800000000000000
+      internalID: -6506651037995399251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elias_7
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 362
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cba843f0bf70d2f0800000000000000
+      internalID: -950119123402576952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elias_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df168fe4991fb930800000000000000
+      internalID: 4161072708178026448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elias_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997ecbede4e34aaa0800000000000000
+      internalID: -6150722682615961703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elias_10
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f12cb246fc247190800000000000000
+      internalID: -7965692404718362127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elias_11
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf954a4701694eb0800000000000000
+      internalID: -4735146849264623669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":3.0},"gridSpriteSize":{"x":362.0,"y":362.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Elias_0: 425489387432932163
+      Elias_1: -3138375274509228451
+      Elias_10: -7965692404718362127
+      Elias_11: -4735146849264623669
+      Elias_2: -3662028160376959383
+      Elias_3: -8685499377602508102
+      Elias_4: -4718211456855590338
+      Elias_5: -5432152933817874997
+      Elias_6: -6506651037995399251
+      Elias_7: -950119123402576952
+      Elias_8: 4161072708178026448
+      Elias_9: -6150722682615961703
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
