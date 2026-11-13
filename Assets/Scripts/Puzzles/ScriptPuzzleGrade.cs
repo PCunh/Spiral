@@ -13,6 +13,7 @@ public class ScriptGradeLogica : MonoBehaviour
 
     [SerializeField] private Button botaoVerificar;
     [SerializeField] private Button botaoVoltar;
+    [SerializeField] private Button botaoJornal;
     [SerializeField] private TMP_Text mensagem;
 
     [SerializeField] private string cenaRetorno = "Game";
@@ -34,22 +35,6 @@ public class ScriptGradeLogica : MonoBehaviour
     private bool concluido = false;
 
     private void Start(){
-        // APAGAR ISSO ANTES DE SUBIR
-        // APENAS PARA TESTES, APAGAR ENTRE COMENTARIOS
-        // APAGAR
-        PlayerPrefs.DeleteKey("PuzzleGradeLogica");
-
-        for (int l = 0; l < 3; l++)
-        {
-            for (int c = 0; c < 3; c++)
-            {
-                PlayerPrefs.DeleteKey(ChaveCelula(l, c));
-            }
-        }
-
-        PlayerPrefs.Save();
-        // APAGAR
-
         modeloCelula.gameObject.SetActive(false);
 
         concluido = PlayerPrefs.GetInt("PuzzleGradeLogica", 0) == 1;
@@ -72,6 +57,7 @@ public class ScriptGradeLogica : MonoBehaviour
 
         botaoVerificar.onClick.AddListener(Verificar);
         botaoVoltar.onClick.AddListener(Voltar);
+        botaoJornal.onClick.AddListener(Jornal);
 
         botaoVerificar.interactable = !concluido;
 
@@ -236,5 +222,9 @@ public class ScriptGradeLogica : MonoBehaviour
 
     private void Voltar(){
         SceneManager.LoadScene(cenaRetorno);
+    }
+    private void Jornal()
+    {
+        SceneManager.LoadScene("PuzzleJornal");
     }
 }

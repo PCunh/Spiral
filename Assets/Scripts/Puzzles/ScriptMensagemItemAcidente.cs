@@ -1,16 +1,39 @@
+using System.Collections;
+using TMPro;
 using UnityEngine;
 
 public class ScriptMensagemItemAcidente : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [SerializeField] private GameObject painelColeta;
+    [SerializeField] private TMP_Text nomeObjeto;
+    [SerializeField] private TMP_Text descricaoObjeto;
+    [SerializeField] private float duracao = 5f;
+
+    private Coroutine rotinaMensagem;
+
+    private void Start()
     {
-        
+        painelColeta.SetActive(false);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void Mostrar(int id)
     {
-        
+        if (rotinaMensagem != null)
+            StopCoroutine(rotinaMensagem);
+
+        nomeObjeto.text = DadosPuzzleAcidente.Nomes[id];
+        descricaoObjeto.text = DadosPuzzleAcidente.Descricoes[id];
+
+        painelColeta.SetActive(true);
+
+        rotinaMensagem = StartCoroutine(EsconderDepois());
+    }
+
+    private IEnumerator EsconderDepois()
+    {
+        yield return new WaitForSeconds(duracao);
+
+        painelColeta.SetActive(false);
+        rotinaMensagem = null;
     }
 }

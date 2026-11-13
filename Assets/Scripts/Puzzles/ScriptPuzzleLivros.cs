@@ -13,6 +13,7 @@ public class ScriptPuzzleLivros : MonoBehaviour
     [SerializeField] private Button botaoAnterior;
     [SerializeField] private Button botaoProximo;
     [SerializeField] private Button botaoDiario;
+    [SerializeField] private Button botaoVoltar;
 
     private int livroAtual = 0;
 
@@ -21,6 +22,7 @@ public class ScriptPuzzleLivros : MonoBehaviour
         botaoAnterior.onClick.AddListener(Anterior);
         botaoProximo.onClick.AddListener(Proximo);
         botaoDiario.onClick.AddListener(AbrirDiario);
+        botaoVoltar.onClick.AddListener(Voltar);
 
         AtualizarLivro();
     }
@@ -71,5 +73,9 @@ public class ScriptPuzzleLivros : MonoBehaviour
     private void AbrirDiario()
     {
         SceneManager.LoadScene("PuzzleDiario");
+    }
+    private void Voltar()
+    {
+        SceneManager.LoadScene("Game");
     }
 }

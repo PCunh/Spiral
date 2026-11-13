@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Livros.unity
     guid: 379cdf18d5790c74fa55189d966c1834
   - enabled: 1
@@ -17,22 +17,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PuzzleFotografia.unity
     guid: ac874e327768e1e44b8e85c5c43c3179
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Escritorio_Hospitalar.unity
     guid: 2d3df0e5cac88da4d8f8f7d5c0061c41
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Banheiro.unity
     guid: 60991a7cc1c0cdf4eb2145430f3153c0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Cirurgia.unity
     guid: 1e9ebee95990b2a40b17be04b339b9a1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Rotina.unity
     guid: 8672cd97491ba584d8491d1ccc779202
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Ambulancia.unity
-    guid: 87193505bca148f47934027d92136d48
-  - enabled: 1
+    guid: 19247092ab7ae34438f9407d99a8e9fe
+  - enabled: 0
     path: Assets/Scenes/Fotografia.unity
     guid: af97b36b1e037b3448087b712baa9ecd
   - enabled: 1
@@ -41,18 +41,30 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PuzzleLivros.unity
     guid: 5f28759141f159640bf782be178bc22f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Recepcao.unity
     guid: e3698dc164ab9f4479ca24d80b319df2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Acidente.unity
     guid: fce1e774e3831ec49851a97e540099b9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Gravacao.unity
     guid: e19b7bc2abdaa3445bf93986eb20c395
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Centro_Espiral.unity
     guid: 16fe62e7ac9f3d74e9cf34731007f051
+  - enabled: 1
+    path: Assets/Scenes/PuzzleRotina1.unity
+    guid: 0df0f262e8dea3a41992484100bd5df4
+  - enabled: 1
+    path: Assets/Scenes/PuzzleRotina2.unity
+    guid: eb9727008c4a82f44be8b63aa15e73c8
+  - enabled: 1
+    path: Assets/Scenes/PuzzleJornal.unity
+    guid: 1e792c7cca5ae74468826c763c7a5849
+  - enabled: 1
+    path: Assets/Scenes/PuzzleAcidente.unity
+    guid: 2f58c1f576bbcef48a8cdb440ac5053a
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
